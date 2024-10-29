@@ -1,0 +1,12 @@
+Include
+Lib
+Scripts
+pyvenv.cfg
+instance
+bin
+var
+/upload/pdfs/*
+/upload/quizzes/*
+!/upload/pdfs/.gitkeep
+!/upload/quizzes/.gitkeep
+__pycache__
